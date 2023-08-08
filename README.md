@@ -26,7 +26,8 @@
 
 **Socials**
 <p align="left">
-  <a href="https://twitter.com/RaulSeganfreddo">Twitter</a>
+  <img width="13" alt="x-logo" src="https://github.com/RaulSeganfreddo/RaulSeganfreddo/assets/57764851/36977c32-04b8-4cce-b949-03e9f7370e86"> <a href="https://twitter.com/RaulSeganfreddo">X (ex Twitter)</a>
+
 </p>
 
 <!--
