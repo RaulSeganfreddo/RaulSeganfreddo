@@ -13,8 +13,19 @@
 |-----|
 -->
 
+**Top Repositories**
+
+<a href="https://github.com/RaulSeganfreddo/TrafficLightsOptimizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaulSeganfreddo&repo=TrafficLightsOptimizer&theme=dracula" />
+</a>
+<a href="https://github.com/RaulSeganfreddo/managePizzaDB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaulSeganfreddo&repo=managePizzaDB&theme=dracula" />
+</a>
+
+---
+
 **Socials**
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/RaulSeganfreddo">Twitter</a>
 </p>
 
